@@ -1,0 +1,16 @@
+.main-div {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+img {
+  border-radius: 100%;
+}
+
+#image-container {
+  background-image: url("/images/car-rental.jpg");
+  background-size: cover;
+  height: 60%;
+  opacity: 0.5;
+}
