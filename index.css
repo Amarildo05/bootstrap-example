@@ -1,9 +1,15 @@
 .main-div {
   color: whitesmoke;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 #image-container {
   background-image: url("/images/car-rental.jpg");
   background-size: cover;
+}
+
+h3 {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
