@@ -4,8 +4,9 @@
 }
 
 #image-container {
-  background-image: url("/images/car-rental.jpg");
+  background-image: url("/images/car-rental-1.jpg");
   background-size: cover;
+  height: 40%;
 }
 
 h3 {
