@@ -2,3 +2,9 @@
   color: whitesmoke;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+#email {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
